@@ -1,9 +1,5 @@
 # File: MinMax.py
-# Student: Ian Salinas
-# UT EID: ibs325
-# Course: CS303E
-# 
-# Date: 10/24/2022
+
 # Description of Program: Program uses isPrime and isFindNextPrime to print out the prime factorizations of a number. Program uses input from the user to determine the prime factorizations. 
 
 import math
