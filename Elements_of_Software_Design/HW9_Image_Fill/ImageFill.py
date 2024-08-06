@@ -1,8 +1,5 @@
 #  File: ImageFill.py
-#  Student Name: Nicholas Gonzalez
-#  Student UT EID: ng25878
-#  Partner Name: Ian
-#  Partner UT EID: ibs325
+
 
 import os
 import sys
