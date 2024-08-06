@@ -1,6 +1,5 @@
 #  File: HuffmanCodes.py
-#  Student Name: Ian Salinas
-#  Student UT EID: ibs325
+
 # Python Huffman Compression
 from PriorityQueue import PriorityQueue
 import sys
