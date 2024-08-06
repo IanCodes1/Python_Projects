@@ -1,5 +1,4 @@
 #  File: Work.py
-#  Student Name: Ian Salinas
 import sys
 import time
 
