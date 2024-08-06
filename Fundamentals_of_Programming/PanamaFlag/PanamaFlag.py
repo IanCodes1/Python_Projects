@@ -1,9 +1,5 @@
 # File: PanamaFlag.py
-# Student: Ian Salinas
-# UT EID: ibs325
-# Course Name: CS303E
-# 
-# Date: 11/18/2022
+
 # Description of Program: Program uses turtle functions to draw an image of the Flag of Panama.
 
 import turtle
