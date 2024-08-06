@@ -1,9 +1,5 @@
 # File: MinMax.py
-# Student: Ian Salinas
-# UT EID: ibs325
-# Course: CS303E
-# 
-# Date: 09/23/2022
+
 # Description of Program: Program asks user to enter integers for it to calculate the maximums and minimums out of the numbers given. Program is also stopped when user enter 'stop'.
 
 print()
