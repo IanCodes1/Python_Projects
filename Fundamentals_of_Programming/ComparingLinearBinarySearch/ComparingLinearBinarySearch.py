@@ -1,9 +1,5 @@
 # File: MinMax.py
-# Student: Ian Salinas
-# UT EID: ibs325
-# Course: CS303E
-# 
-# Date: 10/28/2022
+
 # Description of Program: Program utilizes and compares linear and binary search programs in order to find how closely their averages match numerical outputs. 
 
 import random
