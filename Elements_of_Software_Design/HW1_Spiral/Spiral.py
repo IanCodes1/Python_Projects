@@ -1,6 +1,6 @@
 #  File: Spiral.py
 #  Student Name: Ian Salinas
-#  Student UT EID: ibs325
+
 
 import sys
 
