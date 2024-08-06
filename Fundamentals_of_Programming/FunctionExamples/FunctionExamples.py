@@ -1,9 +1,5 @@
 # File: FunctionExamples.py
-# Student: Ian Salinas
-# UT EID: ibs325
-# Course: CS303E
-# 
-# Date: 09/30/2022
+
 # Description of Program: Program contains a library of functions that can be imported to do various mathematical calulations.
 
 import math
