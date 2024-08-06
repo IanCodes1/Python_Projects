@@ -1,6 +1,4 @@
 #  File: Spiral.py
-#  Student Name: Ian Salinas
-
 
 import sys
 
