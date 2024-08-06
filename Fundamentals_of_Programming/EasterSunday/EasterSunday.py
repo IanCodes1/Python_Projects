@@ -1,9 +1,5 @@
 # File: EasterSunday.py
-# Student: Ian Salinas
-# UT EID: ibs325
-# Course Name: CS303E
-#
-# Date: 09/03/2022
+
 # Description of Program: Program uses a variety of mathematical calulations and variables to produce the date of Easter for any given year.
 
 y = int( input("Enter year: ") )
