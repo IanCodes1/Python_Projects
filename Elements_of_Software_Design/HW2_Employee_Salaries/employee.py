@@ -1,6 +1,6 @@
 #  File: EmployeeSalaries.py
 #  Student Name: Ian Salinas
-#  Student UT EID: ibs325
+
 
 
 class Employee:
