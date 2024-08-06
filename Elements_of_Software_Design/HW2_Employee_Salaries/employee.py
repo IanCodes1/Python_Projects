@@ -1,7 +1,4 @@
 #  File: EmployeeSalaries.py
-#  Student Name: Ian Salinas
-
-
 
 class Employee:
 
