@@ -1,8 +1,5 @@
 #  File: BST_Cipher.py
-#  Student Name: Ian Salinas
-#  Student UT EID: ibs325
-#  Partner Name: Nicholas Gonzalez
-#  Partner UT EID: ng25878
+
 
 import sys
 
