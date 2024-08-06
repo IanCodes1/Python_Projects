@@ -1,9 +1,5 @@
 #  File: BST_AVLTree.py
-#  Student Name: Nicholas Gonzalez
-#  Student UT EID: ng25878
-#  Partner Name: Ian Salinas
-#  Partner UT EID: ibs325
-#  UPDATED Monday July 27 3:15pm - Updates commented with "line update" comments
+
 
 
 import sys
