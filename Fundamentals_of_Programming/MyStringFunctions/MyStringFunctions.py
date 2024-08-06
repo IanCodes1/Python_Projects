@@ -1,9 +1,5 @@
 # File: Initials.py
-# Student: Ian Salinas
-# UT EID: ibs325
-# Course: CS303E
-# 
-# Date: 10/17/22
+
 # Description of Program: Program practices how to manipulate strings within class functions. 
 
 
