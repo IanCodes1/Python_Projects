@@ -1,9 +1,5 @@
 # File: WordleAssistant.py
-# Student: Ian Salinas
-# UT EID: ibs325
-# Course: CS303E
-# 
-# Date: 11/05/2022
+
 # Description of Program: Program uses various functions to provide the user with a new list of words filtered with parameters set by the user.
 
 # https://www.cs.utexas.edu/~byoung/cs303e/hw11.html (temp. link to hw b/c website is down)
