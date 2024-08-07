@@ -1,10 +1,6 @@
 # File: Project2.py
-# Student: Ian Salinas
-# UT EID: ibs325
-# Course: CS303E
-# 
-# Date: 11/07/2022
-# Description of Progr9,2am: Program simulates a game of Tic-Tac-Toe and allows the user to play the game against a bot.
+
+# Description of Program: Program simulates a game of Tic-Tac-Toe and allows the user to play the game against a bot.
 
 
 import random
