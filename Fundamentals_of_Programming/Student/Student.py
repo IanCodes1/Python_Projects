@@ -1,9 +1,5 @@
 # File: Initials.py
-# Student: Ian Salinas
-# UT EID: ibs325
-# Course: CS303E
-# 
-# Date: 10/11/22
+
 # Description of Program: Program allows user to enter in the name of a student and their two exam grades. When called upon, the user can find each individual piece of the program by calling it. 
 
 class Student:
