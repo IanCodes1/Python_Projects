@@ -1,9 +1,5 @@
 # File: Initials.py
-# Student: Ian Salinas
-# UT EID: ibs325
-# Course: CS303E
-# 
-# Date: 10/10/22
+
 # Description of Program: Program uses multiple functions to divide the computations of assignments to find their averages. Program then uses these functions to calulate a students average and letter grade in a class. 
 
 
