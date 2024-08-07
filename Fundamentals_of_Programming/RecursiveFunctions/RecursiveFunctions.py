@@ -1,9 +1,5 @@
 # File: RecursiveFunctions.py
-# Student: Ian Salinas
-# UT EID: ibs325
-# Course Name: CS303E
-# 
-# Date: 11/11/2022
+
 # Description of Program: Program provides practice utilizing recursion within functions.
 
 def sumItemsInList( L ):
