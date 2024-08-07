@@ -1,9 +1,5 @@
 # File: Project3.py
-# Student: 
-# UT EID: 
-# Course Name: CS303E
-# 
-# Date:
+
 # Description of Program: Program creates ciphered text and is able to encrypt and decrypt files the user enters.
 
 import random
